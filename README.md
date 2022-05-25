@@ -5,6 +5,7 @@
 
 Download this free UI Kit for Figma, use whichever UI components you need, save the others for another design, another day!
 
-More [information available on Tuts+.](https://webdesign.tutsplus.com/)
+More [information available on Tuts+.]([https://webdesign.tutsplus.com/](https://webdesign.tutsplus.com/articles/free-figma-ui-kit-personal-banking-app--cms-41461))
 
-![cover](https://github.com/tutsplus/Free-UI-Kit-Social-Food-App/blob/main/main-cover.jpg)
+![cover](https://github.com/tutsplus/free-ui-kit-personal-banking-app/blob/main/figma-cover-banking-app.jpeg?raw=true)
+
